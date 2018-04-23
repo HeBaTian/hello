@@ -6,5 +6,6 @@ public class test {
         System.out.println("呵呵我来了");
         System.out.printf("hello");
         System.out.println("第一次更新");
+        System.out.println("第一次更新");
     }
 }
